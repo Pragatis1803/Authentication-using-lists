@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610338286 source:c:\users\pragati\dsproject1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
